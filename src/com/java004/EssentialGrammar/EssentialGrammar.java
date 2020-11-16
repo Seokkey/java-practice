@@ -1,4 +1,4 @@
-package com.java.004_EssentialGrammar;
+package com.java004.EssentialGrammar;
 
 /**
  * 입문 004.자바 필수 문법
@@ -79,21 +79,21 @@ public class EssentialGrammar {
   // 실수와 정수는 기본적으로 5칙연산을 사용한다. +,-,*,/(나눗셈-몫),%(나눗셈- 나머지, 모듈러스)
   // 정수끼리 연산하면 결과도 정수
   // 실수와 정수를 연산하면 결과는 실수
-  // 5+5=10
-  // 5-5=0
-  // 5*5=25
-  // 5/6=0
-  // 5%6=5
+  //    5+5=10
+  //    5-5=0
+  //    5*5=25
+  //    5/6=0
+  //    5%6=5
 
   // 비교 연산
   // 모든 기본 타입의 값을 비교할 때는 비교 연산을 사용한다.
   // 비교 연산은 boolean을 반환 한다.
-  // 6>5 //true 크다
-  // 6<5 //false 작다
-  // 6>=5 //true 크거나 같다
-  // 6<=5 //false 작거나 같다
-  // 6==5 //false 같다
-  // 6!=5 //true 다르다
+  //    6>5 //true 크다
+  //    6<5 //false 작다
+  //    6>=5 //true 크거나 같다
+  //    6<=5 //false 작거나 같다
+  //    6==5 //false 같다
+  //    6!=5 //true 다르다
 
   // 타입 변환(형 변환, Casting)
   // 기본 타입의 크기는 int < long < float < double
@@ -128,11 +128,10 @@ public class EssentialGrammar {
   int day = (int) (days / 1000 / 24 / 60 / 60);
 
   // 점의 이동이나 회전 과정은 double 타입을 사용하지만 두 지점 사이의 직선을 그릴 때는 정수를 사용한다.
-  // Point p = ro.rotate(p1, 360 - 6 * sec);
-  // double dx = p.getX();
-  // double dy = p.getY();
-
-  // drawLine(g, Color.BLUE, 0,0,(int)dx, (int)dy);
+  //    Point p = ro.rotate(p1, 360-6*sec);
+  //    double dx=p.getX();
+  //    double dy=p.getY();
+  //    drawLine(g, Color.BLUE, 0,0,(int)dx, (int)dy);
 
   // 상수
   // 상수는 값이 한 번 결정되면 변경할 수 없다.

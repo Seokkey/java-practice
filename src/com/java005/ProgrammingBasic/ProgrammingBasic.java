@@ -1,4 +1,4 @@
-package com.java.005_ProgrammingBasic;
+package com.java005.ProgrammingBasic;
 
 /**
  * 입문 005.자바 프로그래밍의 기본
@@ -26,7 +26,7 @@ public class ProgrammingBasic {
   // 간단한 if~else 구문은 삼항 연산자
 
   int temp = 99;
-  //    if (temp != 5) {
+  //    if (1==1) {
   //        System.out.println("dd");
   //    }
   //    if(temp%2 == 1) {
