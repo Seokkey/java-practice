@@ -1,4 +1,4 @@
-package com.java004.EssentialGrammar;
+package com.java004.essential_grammar;
 
 /**
  * 입문 004.자바 필수 문법
