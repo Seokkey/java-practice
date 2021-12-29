@@ -1,4 +1,4 @@
-package com.java003.Java_class_File;
+package com.java003.classFile;
 
 import javafx.application.Application;
 import javafx.stage.Stage;

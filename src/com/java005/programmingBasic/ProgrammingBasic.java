@@ -1,4 +1,4 @@
-package com.java005.programming_basic;
+package com.java005.programmingBasic;
 
 /**
  * 입문 005.자바 프로그래밍의 기본

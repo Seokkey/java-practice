@@ -1,8 +1,8 @@
 ######################
 # Project Specific
 ######################
-/target/www/**
-
+/target/**
+output/
 ######################
 # Eclipse
 ######################
@@ -122,6 +122,3 @@ Desktop.ini
 # Maven Wrapper
 ######################
 !.mvn/wrapper/maven-wrapper.jar
-
-
-output/

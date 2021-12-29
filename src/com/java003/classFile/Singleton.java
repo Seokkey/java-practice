@@ -1,4 +1,4 @@
-package com.java003.Java_class_File;
+package com.java003.classFile;
 
 public class Singleton {
   private static Singleton ourInstance = new Singleton();
